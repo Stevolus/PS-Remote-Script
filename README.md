@@ -1,7 +1,7 @@
 # PS-Remote-Script
-Retardedly simple script I use to connect to other PCs via powershell
+Retardedly simple PS script I use to connect to other windows sessions via powershell
 
-
+NB: winrm needs to be enabled on remote PC.
 
 Usage
 compconnect.ps1 "ComputerName"
